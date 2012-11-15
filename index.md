@@ -110,7 +110,7 @@ This can be done in many ways but one convenient and productive method is to emp
 Over time, your API design may change and the documentation updated.  Providing a changelog allows your developers to see at a glance what has changed and to better understand what impact the changes may have on their use of your API.  This can be done by instituting version control for the API, with each update receiving a version number and including a bulleted list of changes.  It is also helpful to provide clear tract changes to the API documentation, a task that is automatically integrated into any documentation that you publish through GitHub.  By posting the full text into GitHub, all future edits will clearly reflect changes so that your developers can see at a glance what they need to know.  
 
 **Potential Tools:**
-* [Github](http://apievangelist.com/2012/10/24/version-control-your-api-documentation-with-github/)
+[Github](http://apievangelist.com/2012/10/24/version-control-your-api-documentation-with-github/)
 
 **.Gov Examples:**
 * [National Weather Service](http://graphical.weather.gov/xml/#xml_changes)
