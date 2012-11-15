@@ -3,9 +3,6 @@ permalink: /index.html
 layout: home
 ---
 
-Release Kit for APIs
-===============
-
 ##Home page 
 
 Each of your public APIs needs a web page that is the hub that provides access to all information and tools associated with it.  By using the page’s sidebar, footer, and sub pages, you can directly include or link to each of the following components that exist for the API.  This allows for ready discover of anything which a potential developer may need, minimizing the effort that is asked of them and maximizing adoption.  This API homepage should be a webpage, not a downloadable Word or PDF, in order to provide ease of use as well as a further degree of permanence.  
