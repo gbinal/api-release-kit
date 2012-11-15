@@ -59,7 +59,7 @@ Software Development Kits (SDKs) are small software libraries that make it easy 
 If developers are required to request an API key, the entire experience should be self-service and allow the developer to move forward once the key has been issued.  When an agency is publishing multiple APIs that use keys, a developer should be able to use the same key for each API instead of needing to register and keep track of individual ones.  
 
 **Potential Tools:**
-* [API.Data.gov](http://api.data.gov)
+* [Data.gov API Key Project](http://api.data.gov)
 
 **.Gov Examples:**
 * [Department of Labor](https://devtools.dol.gov/developer)
