@@ -38,7 +38,6 @@ In addition to static code examples, you can also provide interactive tools that
 * [Swagger](http://swagger.wordnik.com)
 * [I/O Docs](https://github.com/mashery/iodocs)
 
-
 **.Gov Examples:**
 * [Federal Register](https://www.federalregister.gov/developers)
 * [EnergyStar.gov](https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers)
@@ -59,7 +58,7 @@ Software Development Kits (SDKs) are small software libraries that make it easy 
 If developers are required to request an API key, the entire experience should be self-service and allow the developer to move forward once the key has been issued.  When an agency is publishing multiple APIs that use keys, a developer should be able to use the same key for each API instead of needing to register and keep track of individual ones.  
 
 **Potential Tools:**
-* [API.Data.gov](http://api.data.gov) (beta)
+[API.Data.gov (beta)](http://api.data.gov)
 
 **.Gov Examples:**
 * [Department of Labor](https://devtools.dol.gov/developer)
@@ -76,10 +75,10 @@ Developers need a clear and transparent means of reporting bugs or other issues 
 Free and opensource tools exist to fulfill this functionality, but possibly the quickest and easiest means is to create a standalone repository for the API in the agency’s GitHub account and [employ the Issue Tracker functionality to receive and process developer feedback](https://github.com/blog/831-issues-2-0-the-next-generation).  In addition to being free, scalable, and requiring no infrastructure, this choice also has the added benefit of existing within the GitHub ecosystem that is the norm within the developer community.  This option also allows agency staff or other developers to subscribe to updates and receive alerts.  
 
 **Potential Tools:**
-* [Github Issue Tracker](http://apievangelist.com/2012/09/23/api-issue-management-with-github/)
+[Github Issue Tracker](http://apievangelist.com/2012/09/23/api-issue-management-with-github/)
 
 **.Gov Examples:**
-* [Department of Labor](https://github.com/USDepartmentofLabor/DOLAPI/issues)
+[Department of Labor](https://github.com/USDepartmentofLabor/DOLAPI/issues)
 
 
 ##Contact Info
@@ -101,10 +100,10 @@ Any API will be more successful the more that its producers communicate with pot
 This can be done in many ways but one convenient and productive method is to employ the Milestones functionality of Github in the same fashion as with Issue Tracking (it is actually integrated within the Issues section of any repository, alongside the issue tracker but can be used in parallel).   This allows agency staff or other developers to subscribe to updates and receive alerts.  
 
 **Potential Tools:**
-* [Github Milestones](http://apievangelist.com/2012/11/12/communicate-your-api-roadmap-with-github/)
+[Github Milestones](http://apievangelist.com/2012/11/12/communicate-your-api-roadmap-with-github/)
 
 **.Gov Examples:**
-* [Environmental Protection Agency](http://www.epa.gov/developer/ef_api.html#future)
+[Environmental Protection Agency](http://www.epa.gov/developer/ef_api.html#future)
 
 ##Changelog 
 
