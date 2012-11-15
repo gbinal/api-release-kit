@@ -59,7 +59,7 @@ Software Development Kits (SDKs) are small software libraries that make it easy 
 If developers are required to request an API key, the entire experience should be self-service and allow the developer to move forward once the key has been issued.  When an agency is publishing multiple APIs that use keys, a developer should be able to use the same key for each API instead of needing to register and keep track of individual ones.  
 
 **Potential Tools:**
-* [Data.gov API Key Project](http://api.data.gov)
+* [API.Data.gov](http://api.data.gov) (beta)
 
 **.Gov Examples:**
 * [Department of Labor](https://devtools.dol.gov/developer)
@@ -89,7 +89,7 @@ Developers still need to have the ability to contact agency staff directly and f
 **.Gov Examples:**
 * [Department of Labor](http://developer.dol.gov/ContactUs.htm)
 * [Department of Energy](http://energy.gov/developer-resources)
-* * [National Broadband Map] (http://broadbandmap.gov/developer)
+* [National Broadband Map] (http://broadbandmap.gov/developer)
 * [National Renewable Energy Laboratory](http://developer.nrel.gov/community)
 * [U.S. Courts - PACER](http://www.pacer.gov/cmecf/developer/)
 
