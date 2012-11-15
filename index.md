@@ -19,7 +19,7 @@ By including sample code snippets that consume the API in the API’s documentat
 
 **Potential Tools:**
 * Embedded [GitHub gist](http://gist.github.com)
-* '<code>' html tags
+* '<code>''</code>' html tags '</code>'
 
 **.Gov Examples:**
 * [Department of Labor](http://developer.dol.gov/)
