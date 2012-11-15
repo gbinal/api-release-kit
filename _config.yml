@@ -1,8 +1,8 @@
 #document settings
 title: API Release Kit
 description: Suggested elements for API production.  
-url: http://gsa.github.com/api-release-kit
-repo_url: http://github.com/api-release-kit
+url: http://gbinal.github.com/jekyll-template
+repo_url: http://github.com/gbinal/jekyll-template
 
 # default build settings for running locally, no need to edit
 server: auto
