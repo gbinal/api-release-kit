@@ -17,8 +17,9 @@ API documentation should include all instructions and details that are necessary
 
 By including sample code snippets that consume the API in the API’s documentation, you provide easy to understand case studies for developers to clone, modify, and learn from.  Where possible, provide working samples in as many popular programming languages as possible, such as Javascript, PHP, Ruby, or Python.  
 
-In order to more appropriately present them on the documentation page, the snippets can be easily presented using the `<code>` html tag or a [GitHub gist](http://gist.github.com).  
-
+**Potential Tools:**
+* Embedded [GitHub gist](http://gist.github.com)
+* '<code>' html tags
 
 **.Gov Examples:**
 * [Department of Labor](http://developer.dol.gov/)
@@ -33,7 +34,9 @@ In order to more appropriately present them on the documentation page, the snipp
 
 In addition to static code examples, you can also provide interactive tools that allow developers to modify the examples and see the change in results.  This simple addition supports a quick path towards understanding how the API functions.  
 
-Numerous free and opensource tools provide this functionality, [Swagger](http://swagger.wordnik.com) and [I/O Docs](https://github.com/mashery/iodocs) are two popular choices.
+**Potential Tools:**
+* [Swagger](http://swagger.wordnik.com)
+* [I/O Docs](https://github.com/mashery/iodocs)
 
 
 **.Gov Examples:**
@@ -55,6 +58,9 @@ Software Development Kits (SDKs) are small software libraries that make it easy 
 
 If developers are required to request an API key, the entire experience should be self-service and allow the developer to move forward once the key has been issued.  When an agency is publishing multiple APIs that use keys, a developer should be able to use the same key for each API instead of needing to register and keep track of individual ones.  
 
+**Potential Tools:**
+* [API.Data.gov (beta)](http://api.data.gov)
+
 **.Gov Examples:**
 * [Department of Labor](https://devtools.dol.gov/developer)
 * [Census Bureau](http://www.census.gov/developers/tos/key_request.html)
@@ -68,6 +74,9 @@ If developers are required to request an API key, the entire experience should b
 Developers need a clear and transparent means of reporting bugs or other issues that affect the API and the API producer needs a functional means of managing these items.  By ensuring this, the agency ensures the best customer service and best incentivizes API adoption.  Issue Trackers can be stood up for each API individually though it is more common to maintain one aggregate tracker to be made available at the developer hub level for use across all APIs 
 
 Free and opensource tools exist to fulfill this functionality, but possibly the quickest and easiest means is to create a standalone repository for the API in the agency’s GitHub account and [employ the Issue Tracker functionality to receive and process developer feedback](https://github.com/blog/831-issues-2-0-the-next-generation).  In addition to being free, scalable, and requiring no infrastructure, this choice also has the added benefit of existing within the GitHub ecosystem that is the norm within the developer community.  This option also allows agency staff or other developers to subscribe to updates and receive alerts.  
+
+**Potential Tools:**
+* [Github Issue Tracker](http://apievangelist.com/2012/09/23/api-issue-management-with-github/)
 
 **.Gov Examples:**
 * [Department of Labor](https://github.com/USDepartmentofLabor/DOLAPI/issues)
@@ -91,12 +100,18 @@ Any API will be more successful the more that its producers communicate with pot
 
 This can be done in many ways but one convenient and productive method is to employ the Milestones functionality of Github in the same fashion as with Issue Tracking (it is actually integrated within the Issues section of any repository, alongside the issue tracker but can be used in parallel).   This allows agency staff or other developers to subscribe to updates and receive alerts.  
 
+**Potential Tools:**
+* [Github Milestones](http://apievangelist.com/2012/11/12/communicate-your-api-roadmap-with-github/)
+
 **.Gov Examples:**
 * [Environmental Protection Agency](http://www.epa.gov/developer/ef_api.html#future)
 
 ##Changelog 
 
 Over time, your API design may change and the documentation updated.  Providing a changelog allows your developers to see at a glance what has changed and to better understand what impact the changes may have on their use of your API.  This can be done by instituting version control for the API, with each update receiving a version number and including a bulleted list of changes.  It is also helpful to provide clear tract changes to the API documentation, a task that is automatically integrated into any documentation that you publish through GitHub.  By posting the full text into GitHub, all future edits will clearly reflect changes so that your developers can see at a glance what they need to know.  
+
+**Potential Tools:**
+* [Github](http://apievangelist.com/2012/10/24/version-control-your-api-documentation-with-github/)
 
 **.Gov Examples:**
 * [National Weather Service](http://graphical.weather.gov/xml/#xml_changes)
