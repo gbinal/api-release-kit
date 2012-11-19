@@ -3,7 +3,7 @@ permalink: /index.html
 layout: home
 ---
 
-_Return to [Howto.gov/API](http://www.howto.gov/api)_.
+_Part of a series of API resources at [Howto.gov/API](http://www.howto.gov/api)_.
 
 ##Home page 
 
