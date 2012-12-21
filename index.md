@@ -41,10 +41,9 @@ In addition to static code examples, you can also provide interactive tools that
 * [I/O Docs](https://github.com/mashery/iodocs)
 
 **.Gov Examples:**
+* [Energy Information Administration](http://www.eia.gov/beta/api/qb.cfm)
 * [Federal Register](https://www.federalregister.gov/developers)
 * [EnergyStar.gov](https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers)
-
-
 
 ##SDKs
 
